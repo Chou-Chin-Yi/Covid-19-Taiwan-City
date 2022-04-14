@@ -3,6 +3,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 import xlrd
 import xlwt
+
+"""
+test 20220414
+"""
+
+
 # 要顯示中文 需要打這兩行還行
 plt.rcParams['font.sans-serif'] = ['Microsoft JhengHei']
 plt.rcParams['axes.unicode_minus'] = False      # （解決座標軸負數的負號顯示問題）
